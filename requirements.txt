@@ -1,2 +1,7 @@
 streamlit
-sklearn
+pickl
+pickleshare
+nltk
+scikit-learn
+pandas
+numpy
